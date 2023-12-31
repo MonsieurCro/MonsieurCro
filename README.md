@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-[![Play Crotus](https://img.shields.io/badge/You%20like%20words-Play%20Crotus-gray.svg?colorA=E39825&colorB=225794&style=for-the-badge)](https://sdfghjgklh.glitch.me/)
+[![Play Crotus](https://img.shields.io/badge/You%20like%20words-Play%20Crotus-gray.svg?colorA=E39825&colorB=225794&style=for-the-badge)](https://www.crotus.be/)
 
 <!--
 https://github-readme-stats.vercel.app/api/top-langs?username=monsieurcro&show_icons=true&locale=en&layout=compact
